@@ -1,1 +1,3 @@
-2+3
+print('hello peter')
+firstName = 'peter'
+print(firstName)
